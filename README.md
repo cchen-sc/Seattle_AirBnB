@@ -22,6 +22,6 @@ There is one notbook file with all the details of analysisL Seattle_AirBnB.ipynb
 
 
 ## Results
-The main findings can be found in this blog.
+The main findings can be found in this blog (https://medium.com/@kola.hu.2021/planning-a-trip-to-seattle-e32c40cc7b08).
 
 ## Licensing, Authors, Acknowledgements
